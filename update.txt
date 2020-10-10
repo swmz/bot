@@ -1,2 +1,1 @@
 1.4
-https://github.com/swmz/bot/raw/main/Teste_GUI.exe
